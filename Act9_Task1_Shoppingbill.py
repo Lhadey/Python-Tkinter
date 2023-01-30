@@ -1,6 +1,5 @@
 from tkinter import *
 from tkinter import ttk
-from PIL import Image, ImageTk
 
 def calculate():
     rice=rice_p.get()*rice_q.get()
